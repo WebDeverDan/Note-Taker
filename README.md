@@ -53,3 +53,4 @@
   ![Image 3 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/Persisting%20Data%20and%20Newly%20Typed%20Info.png)
 
 
+
