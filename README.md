@@ -48,7 +48,8 @@
   * If you have any questions regarding the application, please reach out to **Daniel Bradley** (the creator), at their GitHub profile located here: **https://github.com/WebDeverDan**, or via email at **danielbvideo@gmail.com**.
 
   ## Screenshots
-  ![Image 1 of application:]()
-  ![Image 2 of application:]()
+  ![Image 1 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/npm%20start.png)
+  ![Image 2 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/Persisting%20Data%20and%20No%20Typed%20Information.png)
+  ![Image 3 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/Persisting%20Data%20and%20Newly%20Typed%20Info.png)
 
 
