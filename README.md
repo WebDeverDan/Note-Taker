@@ -1,6 +1,6 @@
 
 
-  ![LicenseType](https://img.shields.io/badge/License%3A%20-Copyleft-green)
+  ![LicenseType]("https://img.shields.io/badge/License%3A%20-MIT-green")
   # Note Taker
   
   ## Description
@@ -23,7 +23,7 @@
   
   ## Usage
   
-  * Anyone can access and use this application. The application is live at: 
+  * Anyone can access and use this application. The application is live at: https://secure-eyrie-15757.herokuapp.com/ 
   * Github repository for source files: https://github.com/WebDeverDan/Note-Taker
   
   ## Contributing
@@ -52,6 +52,8 @@
   ![Image 1 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/npm%20start.png)
   ![Image 2 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/Persisting%20Data%20and%20No%20Typed%20Information.png)
   ![Image 3 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/Persisting%20Data%20and%20Newly%20Typed%20Info.png)
+  ![Image 3 of application:](https://github.com/WebDeverDan/Note-Taker/blob/eb60917feacfcb104316a6340cb09d91c9d5ab22/Screenshots/Persisting%20Data%20and%20Newly%20Typed%20Info.png)
+
 
 
 
