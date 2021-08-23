@@ -1,6 +1,6 @@
 
 
-  ![LicenseType]("https://img.shields.io/badge/License%3A%20-MIT-green")
+  ![LicenseType](https://img.shields.io/badge/License%3A%20-MIT-green)
   # Note Taker
   
   ## Description
