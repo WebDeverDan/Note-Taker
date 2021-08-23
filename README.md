@@ -19,11 +19,12 @@
   
   ## Installation Instructions
   
-  * By copying the files within this repository, the user can place them in a setting of their choosing and can access the app by running the command "npm start." Can be accessed via a terminal application or via the integrated terminal in VS Code.
+  * By copying the files within this repository, the user can place them in a setting of their choosing and can access the app by running the command "npm start." Can be accessed via a terminal application or via the integrated terminal in VS Code. See "Usage" below for Heroku deployment and GitHub resources. 
   
   ## Usage
   
-  * Anyone can access and use this application.
+  * Anyone can access and use this application. The application is live at: 
+  * Github repository for source files: https://github.com/WebDeverDan/Note-Taker
   
   ## Contributing
   
